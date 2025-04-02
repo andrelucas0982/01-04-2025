@@ -17,7 +17,7 @@ int main(){
 		
 	} while(1);
 	
-	printf("A soma dos numeros do Dado apresentado e igual a: %d", Soma);
+	printf("A soma dos numeros pares apresentado e igual a: %d", Soma);
 	
 	return 0;
 }
